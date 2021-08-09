@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="decode">Decode !</string>
+    <string name="type_or_paste_here">Type or Paste here</string>
+    <string name="results_will_be_here">Results will be here</string>
+    <string name="privacy">Privacy</string>
+</resources>

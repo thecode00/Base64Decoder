@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Base64Decoder</string>
+    <string name="decode">Decode !</string>
+    <string name="encode">Encode !</string>
+    <string name="copy">Copy !</string>
+    <string name="type_or_paste_here">Type or Paste here</string>
+    <string name="results_will_be_here">Results will be here</string>
+    <string name="privacy">Privacy</string>
+</resources>
